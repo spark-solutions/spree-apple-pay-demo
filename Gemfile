@@ -65,3 +65,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'spree', github: 'spree/spree'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise'
 gem 'spree_gateway', github: 'spark-solutions/spree_gateway', branch: 'use-stripe-elements'
+
+gem 'aws-sdk-s3', require: false
